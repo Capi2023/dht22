@@ -1,4 +1,4 @@
 # Dht22
 # Por emiliano garcia cordero
 
-![](https://logos-world.net/wp-content/uploads/2021/08/Among-Us-Logo-700x394.png)
+![](https://media.es.wired.com/photos/649c7320532fc59e0e8d4fea/16:9/w_1920,c_limit/AmongUsTV.jpg)
