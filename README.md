@@ -28,7 +28,7 @@
 * Monitorización de la calidad del aire interior
 * Aplicaciones de domótica y proyectos de Internet de las Cosas
 
-![](https://nutricontrol.com/wp-content/uploads/2016/08/invernadero1.jpg)
+![](https://github.com/Capi2023/dht22/blob/main/imagenes/invernadero1.jpg)
 
 # Ficha tecnica
 * Rango de medición de temperatura: -40°C a 80°C
