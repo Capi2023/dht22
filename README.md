@@ -41,7 +41,7 @@
 * Tiempo de respuesta típico: 2 segundos
 
 # Codigo
-### El siguente codigo es para una lectura simple de humedad y temperatura en Celcius y Fahrenheit en arduino:
+### El siguente codigo es para una lectura simple de humedad y temperatura en Celsius y Fahrenheit en arduino:
 
 ```c++
 #include "DHT.h"
@@ -55,9 +55,9 @@ void setup() {
 }
 void loop() {
   delay(2000);
-  float h = dht.readHumidity(); //Leemos la Humedad
-  float t = dht.readTemperature(); //Leemos la temperatura en grados Celsius
-  float f = dht.readTemperature(true); //Leemos la temperatura en grados Fahrenheit
+  float h = dht.readHumidity();
+  float t = dht.readTemperature();
+  float f = dht.readTemperature(true);
   Serial.print("Humedad ");
   Serial.print(h);
   Serial.print(" %t");
