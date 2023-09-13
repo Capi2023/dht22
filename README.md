@@ -43,7 +43,7 @@
 # Codigo
 ### El siguente codigo es para una lectura simple de humedad y temperatura en Celcius y Fahrenheit en arduino:
 
-'''
+```c++
 #include "DHT.h"
 #define DHTPIN 2
 #define DHTTYPE DHT22
@@ -67,7 +67,7 @@ void loop() {
   Serial.print(f);
   Serial.println(" *F");
 }
-'''
+```
 
 ### Aqui tambien
 
