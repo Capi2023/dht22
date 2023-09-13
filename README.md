@@ -8,7 +8,7 @@
 * Sensor de Humedad y Temperatura DHT22
 * AM2302
 
-![](https://aelectronics.com.mx/2172-large_default/modulo-dht22.jpg)
+![Esoyam](https://aelectronics.com.mx/2172-large_default/modulo-dht22.jpg)
 
 #### El sensor DHT22 es un dispositivo utilizado para medir la temperatura y la humedad relativa del aire. Es ampliamente utilizado en proyectos de electrónica y automatización, así como en aplicaciones de monitoreo ambiental y meteorología amateur.
 
@@ -27,6 +27,8 @@
 * Control de climatización en sistemas de HVAC
 * Monitorización de la calidad del aire interior
 * Aplicaciones de domótica y proyectos de Internet de las Cosas
+
+![](https://nutricontrol.com/wp-content/uploads/2016/08/invernadero1.jpg)
 
 # Ficha tecnica
 * Rango de medición de temperatura: -40°C a 80°C
