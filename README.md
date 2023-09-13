@@ -12,7 +12,7 @@
 
 #### El sensor DHT22 es un dispositivo utilizado para medir la temperatura y la humedad relativa del aire. Es ampliamente utilizado en proyectos de electrónica y automatización, así como en aplicaciones de monitoreo ambiental y meteorología amateur.
 
-![](https://publicdomainvectors.org/photos/soil_sampling.png)
+![](https://github.com/Capi2023/dht22/blob/main/imagenes/soil_sampling.png)
 
 ### Caracteristicas
 * Bajo consumo de energía
