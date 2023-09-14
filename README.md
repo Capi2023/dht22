@@ -79,7 +79,7 @@ void loop() {
 ### Diagrama de como conectar el DHT22 a un arduino
 ![](https://naylampmechatronics.com/img/cms/Blog/Tutorial%20DHT11%20y%20DHT22/conexion%20arduino%20y%20dht22.jpg)
 
-### Bibliografia
+# Bibliografia
 * https://naylampmechatronics.com/blog/40_tutorial-sensor-de-temperatura-y-humedad-dht11-y-dht22.html
 * https://www.hwlibre.com/dht22/
 * https://naylampmechatronics.com/sensores-temperatura-y-humedad/58-sensor-de-temperatura-y-humedad-relativa-dht22-am2302.html
