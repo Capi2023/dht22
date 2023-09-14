@@ -42,6 +42,8 @@
 * Salida de datos: Digital (Arduino, Raspberry PI, etc...)
 * Tiempo de respuesta típico: 2 segundos
 
+![](https://static.wixstatic.com/media/819900_0b88d24cc9a6431581efe8f9e98c2741~mv2.png/v1/fill/w_925,h_460,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/819900_0b88d24cc9a6431581efe8f9e98c2741~mv2.png)
+
 # Codigo
 ### El siguente codigo es para una lectura simple de humedad y temperatura en Celsius y Fahrenheit en arduino:
 
