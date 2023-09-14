@@ -32,18 +32,18 @@
 
 # Ficha tecnica
 
-| Característica                | Valor                   |
-|------------------------------|-------------------------|
-| Rango de medición de temperatura | -40°C a 80°C          |
-| Precisión de la temperatura   | ±0.5°C                  |
-| Rango de medición de humedad  | 0% a 100% HR            |
-| Precisión de la humedad       | ±2% HR                  |
-| Resolución de temperatura     | 0.1°C                    |
-| Resolución de humedad         | 0.1% HR                  |
-| Tensión de alimentación       | 3.3V a 5V DC            |
-| Corriente en funcionamiento   | Menos de 1mA            |
-| Salida de datos               | Digital (Arduino, Raspberry PI, etc.) |
-| Tiempo de respuesta típico    | 2 segundos              |
+| Característica                   | Valor                           |
+|----------------------------------|---------------------------------|
+| Rango de medición de temperatura | -40°C a 80°C                    |
+| Precisión de la temperatura      | ±0.5°C                          |
+| Rango de medición de humedad     | 0% a 100% HR                    |
+| Precisión de la humedad          | ±2% HR                          |
+| Resolución de temperatura        | 0.1°C                           |
+| Resolución de humedad            | 0.1% HR                         |
+| Tensión de alimentación          | 3.3V a 5V DC                    |
+| Corriente en funcionamiento      | Menos de 1mA                    |
+| Salida de datos                  | Digital (Arduino, Raspberry PI) |
+| Tiempo de respuesta típico       | 2 segundos                      |
 
 
 ![](https://static.wixstatic.com/media/819900_0b88d24cc9a6431581efe8f9e98c2741~mv2.png/v1/fill/w_925,h_460,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/819900_0b88d24cc9a6431581efe8f9e98c2741~mv2.png)
