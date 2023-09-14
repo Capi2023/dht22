@@ -1,5 +1,5 @@
 # DHT22
-## Por Emiliano García Cordero
+## Por Emiliano García Cordero - 20211779
 
 # Objectivo
 ### El principal objectivo de esta pagina es dar a conocer el sensor DHT22, cuales son sus principales funciones y como esta puede ser implementada en nuestra carrera
@@ -70,10 +70,12 @@ void loop() {
   Serial.println(" *F");
 }
 ```
-
+### Diagrama de como conectar el DHT22 a un arduino
 ![](https://naylampmechatronics.com/img/cms/Blog/Tutorial%20DHT11%20y%20DHT22/conexion%20arduino%20y%20dht22.jpg)
 
-### Aqui tambien
-
+### Bibliografia
+* https://naylampmechatronics.com/blog/40_tutorial-sensor-de-temperatura-y-humedad-dht11-y-dht22.html
+* https://www.hwlibre.com/dht22/
+* https://naylampmechatronics.com/sensores-temperatura-y-humedad/58-sensor-de-temperatura-y-humedad-relativa-dht22-am2302.html
 
 ![](https://media.es.wired.com/photos/649c7320532fc59e0e8d4fea/16:9/w_1920,c_limit/AmongUsTV.jpg)
