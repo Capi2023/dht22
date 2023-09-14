@@ -31,6 +31,7 @@
 ![](https://nutricontrol.com/wp-content/uploads/2016/08/invernadero1.jpg)
 
 # Ficha tecnica
+
 | Característica                | Valor                   |
 |------------------------------|-------------------------|
 | Rango de medición de temperatura | -40°C a 80°C          |
